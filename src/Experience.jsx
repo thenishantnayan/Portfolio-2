@@ -12,13 +12,13 @@ const Experience = () => {
       side: 'right'
     },
     {
-      title: 'Content Head at GEEK-ROOM',
+      title: 'Marketing Head at GEEK-ROOM',
       company: 'Geek-Room',
       date: 'Oct 2025',
       points: [
-        'Led content creation and messaging for the Bhashabandhu event',
-        'Contributed promotional and event-related content for HelaCross Road, supporting audience engagement',
-        'Collaborated with the team to align content with event objectives and execution'
+        'Led the complete marketing strategy and promotions for the Hela Crossroad event at KIET, increasing event visibility and participation',
+        'Created and managed promotional content and campaigns across digital and on-ground platforms to drive audience engagement',
+        'Collaborated with organizing teams to align marketing efforts with event objectives and ensure smooth execution'
       ],
       side: 'left'
     }

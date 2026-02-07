@@ -1,12 +1,12 @@
 const Education = () => {
   const achievements = [
     {
-      title: 'Finalist — SprintHacks 3.0',
-      description: 'Top 30 out of 200+ teams, 24-hour national hackathon'
+      title: '300+ DSA Problems Solved',
+      description: 'Solved on platforms like LeetCode, GeeksforGeeks etc.'
     },
     {
-      title: 'Rank 2 Winner — INNOTECH Tech Fest',
-      description: 'Worked on application logic, feature implementation, and project coordination'
+      title: 'SQL Basic Certification',
+      description: 'Achieved certification in SQL fundamentals and database management from Hackerrank'
     },
     {
       title: 'AWS Certified Cloud Practitioner',
@@ -32,10 +32,10 @@ const Education = () => {
                 <span className="text-blue-400 bg-blue-950 px-4 py-1 rounded text-sm">2023 – 2027</span>
               </div>
               <div className="text-4xl font-bold text-white mb-4">
-                8.59 <span className="text-gray-500 text-lg">CGPA</span>
+                7.48 <span className="text-gray-500 text-lg">CGPA</span>
               </div>
               <p className="text-gray-400">
-                <span className="font-semibold">Coursework:</span> Database Management Systems, Operating Systems, Data Structures, Object-Oriented Programming in Java
+                <span className="font-semibold">Coursework:</span> Database Management Systems, Operating Systems, Data Structures, Object-Oriented Programming in CPP
               </p>
             </div>
           </div>

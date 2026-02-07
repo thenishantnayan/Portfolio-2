@@ -1,18 +1,32 @@
 const Projects = () => {
   const projects = [
     {
-      title: 'Blinkit-Clone',
-      date: 'Sep 2025',
+      title: 'Vizzle Landing Page',
+      date: 'Sep 2024',
       description: 'Built a Blinkit clone with a responsive UI, replicating core features and user flow using modern frontend technologies.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/blinkit.png'
     },
     {
       title: 'Astrology Wep App',
-      date: 'Dec 2024',
+      date: 'Feb 2025',
       description: 'Developed an astrology app that provides personalized horoscope insights with a clean, user-friendly interface and smooth navigation.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/astrology.png'
+    },
+    {
+      title: 'Weather App',
+      date: 'Sep 2024',
+      description: 'A simple weather app built using **HTML, CSS, and JavaScript** that fetches and displays real-time weather information for any city.',
+      tech: ['Html', 'Css', 'Javascript'],
+      image: '/images/weather.png'
+    },
+    {
+      title: 'Blinkit-Clone',
+      date: 'Sep 2024',
+      description: 'Built a Blinkit clone with a responsive UI, replicating core features and user flow using modern frontend technologies.',
+      tech: ['Html', 'Css', 'Javascript'],
+      image: '/images/blinkit.png'
     }
   ];
 
