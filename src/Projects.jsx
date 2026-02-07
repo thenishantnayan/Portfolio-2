@@ -12,7 +12,7 @@ const Projects = () => {
       tech: ['Html', 'Css', 'Javascript','React','Tailwind'],
       image: '/images/vizzlelanding.jpeg',
       github: 'https://github.com/thenishantnayan/vizzle-landing',
-      demo: 'https://vizzle-landing.netlify.app'
+      demo: 'https://www.vizzle.in/'
     },
     {
       title: 'Astrology Wep App',

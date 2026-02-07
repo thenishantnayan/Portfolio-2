@@ -26,12 +26,15 @@ const Hero = () => {
           </div>
         </div>
         <div className="flex justify-center mt-8 lg:mt-0">
-          <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full border-4 border-white overflow-hidden bg-darker">
-            <img 
-              src="/images/profile.jpg" 
-              alt="Profile" 
-              className="w-full h-full object-cover"
-            />
+          <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96">
+            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary/30 via-primary/50 to-primary/30 blur-md animate-spin-slow"></div>
+            <div className="relative w-full h-full rounded-full border-4 border-primary/60 overflow-hidden bg-darker">
+              <img 
+                src="/images/profile.jpg" 
+                alt="Profile" 
+                className="w-full h-full object-cover"
+              />
+            </div>
           </div>
         </div>
       </div>
