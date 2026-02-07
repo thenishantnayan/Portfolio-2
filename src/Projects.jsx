@@ -16,7 +16,7 @@ const Projects = () => {
     },
     {
       title: 'Astrology Wep App',
-      date: 'Feb 2025',
+      date: 'Feb 2026',
       description: 'Developed an astrology app that provides personalized horoscope insights with a clean, user-friendly interface and smooth navigation.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/astrology.png',
