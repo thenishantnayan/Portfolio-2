@@ -20,8 +20,8 @@ const Projects = () => {
       description: 'Developed an astrology app that provides personalized horoscope insights with a clean, user-friendly interface and smooth navigation.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/astrology.png',
-      github: 'https://github.com/thenishantnayan/astrology-app',
-      demo: 'https://astrology-app.netlify.app'
+      github: 'https://github.com/thenishantnayan/astrology',
+      demo: 'https://astrology-smoky-delta.vercel.app/'
     },
     {
       title: 'Weather App',
@@ -29,8 +29,8 @@ const Projects = () => {
       description: 'A simple weather app built using **HTML, CSS, and JavaScript** that fetches and displays real-time weather information for any city.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/weather.png',
-      github: 'https://github.com/yourusername/weather-app',
-      demo: 'https://weather-app.netlify.app'
+      github: 'https://github.com/thenishantnayan/weather',
+      demo: 'https://weather-henna-ten-43.vercel.app/'
     },
     {
       title: 'Blinkit-Clone',
@@ -38,8 +38,8 @@ const Projects = () => {
       description: 'Built a Blinkit clone with a responsive UI, replicating core features and user flow using modern frontend technologies.',
       tech: ['Html', 'Css', 'Javascript'],
       image: '/images/blinkit.png',
-      github: 'https://github.com/yourusername/blinkit-clone',
-      demo: 'https://blinkit-clone.netlify.app'
+      github: 'https://github.com/thenishantnayan/blinkit',
+      demo: 'https://blinkit-red.vercel.app/'
     }
   ];
 
